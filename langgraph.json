@@ -1,0 +1,10 @@
+{
+    "dependencies": [
+        "langchain_openai",
+        "./"
+    ],
+    "graphs": {
+        "rag_agent": "./agentic-rag.py:agent"
+    },
+    "env": "./.env"
+}
